@@ -11,3 +11,4 @@ services:
       - /Users/jeswww/Desktop/pintos:/home/pintos
     environment:
       - PINTOS_DIR=/home/pintos
+      
